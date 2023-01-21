@@ -8,6 +8,7 @@
 
 .linux/
 .macos/
+
 .buildlog/
 .history
 .svn/
