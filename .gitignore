@@ -5,6 +5,9 @@
 *.swp
 .DS_Store
 .atom/
+
+.linux/
+.macos/
 .buildlog/
 .history
 .svn/
